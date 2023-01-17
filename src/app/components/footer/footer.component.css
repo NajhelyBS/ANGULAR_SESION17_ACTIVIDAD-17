@@ -1,0 +1,11 @@
+nav {
+    background-color: rgba(80, 80, 87, 0.856);
+}
+
+.nav-link {
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke-width: 0.6px;
+    -webkit-text-stroke-color: rgba(15, 15, 15, 0.884);
+}
+
